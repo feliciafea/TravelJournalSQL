@@ -1,5 +1,5 @@
 # TravelJournalSQL
-Travel Journal is an application and database of travel reports from users on the cities they visit. Users can record their trips and create journal entries about the cities they visit. Public entries can be searched for, viewed, and reported by other users. Admins can review and act on report flags to manage the platform.
+Travel Journal is an application and database of travel reports from users on the cities they visit. Built using SQL and JavaFX. Users can record their trips and create journal entries about the cities they visit. Public entries can be searched for, viewed, and reported by other users. Admins can review and act on report flags to manage the platform.
 
 # Creating Trips
 https://github.com/feliciafea/TravelJournalSQL/assets/107654364/d962405c-d6e7-4496-8336-330e01d66abb
